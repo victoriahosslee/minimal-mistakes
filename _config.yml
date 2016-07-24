@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "Victoriously Living"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Victoria Lee"
+description              : "Victoria's blog"
+url                      : # the base hostname & protocol for your site e.g. "https://victoriahosslee.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -63,11 +63,11 @@ google_ad_slot           :
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Victoria Lee"
   avatar           : "bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Educator, student, foodie."
+  location         : "New York, NY"
+  email            : "victoriaehoss@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -78,10 +78,10 @@ author:
   github           :
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "todayrameans_"
   lastfm           :
-  linkedin         :
-  pinterest        :
+  linkedin         : "victoria-hoss-lee-4527613a"
+  pinterest        : "victoriaehoss"
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
@@ -92,6 +92,26 @@ author:
   xing             :
   youtube          :
 
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
 
 # Reading Files
 include:
