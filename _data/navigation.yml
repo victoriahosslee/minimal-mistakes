@@ -1,4 +1,14 @@
 # main links links
 main:
+  - title: "All posts"
+    url: /All-Posts
+  - title: "Mental health"
+    url: /Mental-Health
+  - title: "Recipes"
+    url: /Recipes
+  - title: "Favorite things"
+    url: /Favorite-Things
+  - title: "Spiritual growth"
+    url: /Spiritual-growth
   - title: "About me"
     url: /about
