@@ -4,3 +4,4 @@
 * [x] Add discuss profile
 * [x] Title case
 * [x] Link splash images and titles to posts
+* [x] Custom domain name
