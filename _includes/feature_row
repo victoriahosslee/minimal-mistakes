@@ -20,6 +20,7 @@
       <div class="archive__item">
         {% if f.image_path %}
           <div class="archive__item-teaser">
+          <a href = {{base_path | append: f.url}}>
             <img src=
               {% if f.image_path contains "://" %}
                 "{{ f.image_path }}"
@@ -27,12 +28,17 @@
                 "{{ f.image_path | prepend: "/images/" | prepend: base_path }}"
               {% endif %}
             alt="{% if f.alt %}{{ f.alt }}{% endif %}">
+          </a>
           </div>
         {% endif %}
 
         <div class="archive__item-body">
           {% if f.title %}
-            <h2 class="archive__item-title">{{ f.title }}</h2>
+            <h2 class="archive__item-title">
+          <a href = {{base_path | append: f.url}}>
+            {{ f.title }}
+          </a>
+            </h2>
           {% endif %}
 
           {% if f.excerpt %}
