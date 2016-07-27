@@ -5,3 +5,4 @@
 * [x] Title case
 * [x] Link splash images and titles to posts
 * [x] Custom domain name
+* [x] Link avatar to about me
