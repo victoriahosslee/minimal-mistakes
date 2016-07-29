@@ -35,7 +35,7 @@
         <div class="archive__item-body">
           {% if f.title %}
             <h2 class="archive__item-title">
-          <a href = {{base_path | append: f.url}}>
+          <a style="color:#494e52" href = {{base_path | append: f.url}}>
             {{ f.title }}
           </a>
             </h2>
