@@ -11,3 +11,4 @@
   * [x] Near-term: turn off _related_ until 5 articles
   * [ ] Reminder: turn on _related_ once 5 articles
   * [ ] Share finding with [mmistakes](https://github.com/mmistakes/minimal-mistakes) (can't find class `grid__wrapper`)
+* [ ] Customize splash page feature row to 2x2 grid
