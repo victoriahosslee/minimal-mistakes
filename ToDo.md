@@ -6,4 +6,8 @@
 * [x] Link splash images and titles to posts
 * [x] Custom domain name
 * [x] Link avatar to about me
-* [ ] Fix width for recommended articles
+* [x] Fix width for _related_ articles
+  * This is the default behavior where fewer than 4 related posts are present
+  * [x] Near-term: turn off _related_ until 5 articles
+  * [ ] Reminder: turn on _related_ once 5 articles
+  * [ ] Share finding with [mmistakes](https://github.com/mmistakes/minimal-mistakes) (can't find class `grid__wrapper`)
