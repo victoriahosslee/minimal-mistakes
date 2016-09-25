@@ -13,3 +13,6 @@
   * [ ] Share finding with [mmistakes](https://github.com/mmistakes/minimal-mistakes) (can't find class `grid__wrapper`)
 * [ ] Customize splash page feature row to 2x2 grid
 * [x] Add pinterest to share icons (css formatting not responsive)
+* [ ] Pinterest image button
+* [ ] Capitalize titles on category pages
+* [ ] Indent paragraphs 
