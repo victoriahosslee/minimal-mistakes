@@ -69,3 +69,9 @@ Band Piece:
 * Cast 8 stitches onto size 10 needles. Knit 22 rows of stockinette stitch. Bind off.
 
 Take your main piece and flip in inside out. Wrap the band piece around the skinny part where the seam sits. Again, I used the mattress seem here, but I'm not certain that was the best choice. Then make sure all your ends are woven in, and you're done!
+
+Let me know if you make it and if you've tweaked it!
+
+Love,
+
+V
