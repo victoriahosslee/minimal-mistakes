@@ -5,7 +5,7 @@ layout: single
 categories: [Favorite things]
 ---
 
-![earwarmers_red_grey_Fotor](/images/Project 1/earwarmers_red_grey_Fotor.jpg){:class="img-responsive"}
+![earwarmers_red_grey_Fotor](/images/Project1/earwarmers_red_grey_Fotor.jpg){:class="img-responsive"}
 
 
 I used to think knitting was for grandmas and girls who thought that they were cool for doing grandma like things. I apologize to all knitters for being so judgey. Y'all were right. Knitting is the bomb, and I am so thankful for all of the great knitters out there who have made countless YouTube videos and free knitting patterns to teach people like me. Thank you!
@@ -18,7 +18,7 @@ That said, my knitting level currently sits at about a 3 out of 10, so you won't
 
 I slowly typed it from the PDF into Google Translate, got a hodgepodge of stuff out the other side, then slowly pieced it together into a knitting pattern that I think makes sense. The pattern is great, Google translate however could use a little work. So I thought I would save you all the trouble of going through all of that work. If I've already done it once, why should you have to do it again?
 
-![earwarmer](/images/Project 1/project1red.jpg){:class="img-responsive"}
+![earwarmer](/images/Project1/project1red.jpg){:class="img-responsive"}
 
  Remember, I'm a beginner here, so there may be some errors or things that I misunderstood. PLEASE point them out to me so I can learn! That said, this pattern is a variation of one I've seen [elsewhere](http://www.ravelry.com/patterns/library/cabled-turban-2) and already in english, so if you would like a more trustworthy pattern check it out. Here is my translation of the gorgeous pattern:
 
@@ -31,7 +31,7 @@ Start by casting 17 stitches onto the size 10 needles. Work back and forth. (Thi
 
 Starting:
 
-![project1start](/images/Project 1/project1start_Fotor.jpg){:class="img-responsive"}
+![project1start](/images/Project1/project1start_Fotor.jpg){:class="img-responsive"}
 
 * Row 1: K1, P1, K4, P1, K1, P1, K4, P1, K1
 * Row 2: K over K, P over P (Is there a better way to say this?)
@@ -41,7 +41,7 @@ Starting:
 * Row 6: P1, K2, P6, K2, P2, K2, P6, K2, P1
 
 Pattern:
-![project1firstround](/images/Project 1/project1firstround_Fotor.jpg){:class="img-responsive"}
+![project1firstround](/images/Project1/project1firstround_Fotor.jpg){:class="img-responsive"}
 
 * Row 7: K1, P2, slip 3 st onto cable needle in front or work, K3 from left needle, K3 from cable needle, P2, K2, P2, K6, P2, K1
 * Row 8-10: K over K, P over P
@@ -49,11 +49,11 @@ Pattern:
 * Row 12-14: K over K, P over P
 Repeat rows 7-14 for a total of ten twists on each side, which should be 86 rows if my math is correct.
 
-![project1patternend_Fotor](/images/Project 1/project1patternend_Fotor.jpg){:class="img-responsive"}
+![project1patternend_Fotor](/images/Project1/project1patternend_Fotor.jpg){:class="img-responsive"}
 
 Finishing:
 
-![project1finishing_Fotor](/images/Project 1/project1finishing_Fotor.jpg){:class="img-responsive"}
+![project1finishing_Fotor](/images/Project1/project1finishing_Fotor.jpg){:class="img-responsive"}
 
 * Row 87: K1, P2, slip 3 st onto cable needle in front or work, K3 from left needle, K3 from cable needle, P2, K2, P2, K6, P2, K1
 * Row 88: K over K, P over P
@@ -64,7 +64,7 @@ Finishing:
 Bind off. I used a mattress seem to join the ends here. Then weave in ends.
 
 Band Piece:
-![project1bandpiece_Fotor](/images/Project 1/project1bandpiece_Fotor.jpg){:class="img-responsive"}
+![project1bandpiece_Fotor](/images/Project1/project1bandpiece_Fotor.jpg){:class="img-responsive"}
 
 * Cast 8 stitches onto size 10 needles. Knit 22 rows of stockinette stitch. Bind off.
 

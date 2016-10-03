@@ -12,7 +12,7 @@ Admission the first: I'm a judger. I'm working on it.
 
 When I was in high school a lovely girl, too pure to be hanging out with the likes of me, offered to teach me how to knit. Obviously, being the wannabe cool girl that I was, I judged the heck out of her, laughed, said "nope!", and walked away. WHAT A FOOL I WAS!
 
-![leslie_earwarmer](/images/Project 1/leslie_earwarmer_Fotor.jpg){:class="img-responsive"}
+![leslie_earwarmer](/images/Project1/leslie_earwarmer_Fotor.jpg){:class="img-responsive"}
 
 
 Admission the second: I have wasted years of my life.
@@ -21,7 +21,7 @@ Until now, my life has consisted of two mode. On mode was school and work, go go
 
 I've never done something that I didn't have to do, other than passively staring at a screen for hours on end. Not that that's always a bad thing. I will defend my right to binge watch Doctor Who and still be considered a productive member of society until I go blind, and maybe even then. But after more than 12 years of this, I've learned that at a certain point too much T.V. leads to headaches, guilt, and boredom with even the best shows. More than this though, the more rest time that my disease forces into my life, the more I desperately want to fight back, the more I want to take that time and turn it into something I'm proud of.
 
-![EarlyknittingCollage_Fotor](/images/General Knitting/EarlyknittingCollage_Fotor.jpg){:class="img-responsive"}
+![EarlyknittingCollage_Fotor](/images/GeneralKnitting/EarlyknittingCollage_Fotor.jpg){:class="img-responsive"}
 
 
 Top: First ear warmer
