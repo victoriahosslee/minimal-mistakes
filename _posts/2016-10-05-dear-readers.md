@@ -2,7 +2,7 @@
 title: "Dear Readers"
 subtitle: "My Promises"
 layout: "single"
-categories: "Spiritual growth"
+categories: [Spiritual growth]
 ---
 It is currently October 5th, 2016 at 3:22 PM EST. The current blog population of the internet sits at around 1234567890xyz0987654321 and counting. So why on earth did I decide to add to the cacophony of blogs?
 

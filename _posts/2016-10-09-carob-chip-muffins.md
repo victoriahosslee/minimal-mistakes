@@ -2,7 +2,7 @@
 title: "Carob Chip Muffin Recipe (AIP, Paleo, Gluten Free, etc.)"
 subtitle: "Mother Necessity"
 layout: "single"
-categories: "Recipes"
+categories: [Recipes]
 ---
 
 ## Mother Necessity Where Would We Be?

@@ -1,8 +1,8 @@
 ---
-title: "Review of "The Power of Biblical Thinking""
+title: "Review of \"The Power of Biblical Thinking\""
 subtitle: "My Promises"
 layout: "single"
-categories: "Spiritual growth"
+categories: [Spiritual growth]
 ---
 
 This book has changed my life. I know, I know, it seems silly and I sound overly dramatic, but it's honestly the truth.
