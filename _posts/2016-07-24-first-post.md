@@ -4,6 +4,7 @@ subtitle: "When being picky leads you to far away places"
 layout: single
 categories: [Favorite things]
 ---
+Cabled Ear Warmer: My first Norwegian knitting 
 
 ![earwarmers_red_grey_Fotor](/images/Project1/earwarmers_red_grey_Fotor.jpg){:class="img-responsive"}
 

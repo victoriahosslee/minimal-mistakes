@@ -4,7 +4,7 @@ subtitle: "Why Knit?"
 layout: single
 categories: [Favorite things]
 ---
-
+Why I started knitting and you should too!
 
 <iframe src="//giphy.com/embed/JzRCMzYVnZrUs" width="480" height="391" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/funny-community-britta-perry-JzRCMzYVnZrUs">via GIPHY</a></p>
 
